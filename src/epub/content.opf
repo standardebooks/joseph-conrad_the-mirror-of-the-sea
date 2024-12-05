@@ -41,10 +41,14 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85119292</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Autobiography</meta>
+		<meta property="se:subject">Memoir</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Travel</meta>
+		<dc:description id="description">An autobiographical memoir on Joseph Conrad’s maritime experiences and his relation with the sea.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt; is the first of two autobiographical memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. Prior to his career as a writer, Conrad spent two decades as a sailor, working in the French and British merchant marine from 1874 to 1894. Published in 1906, &lt;i&gt;The Mirror of the Sea&lt;/i&gt; is a collection of essays on Conrad’s relation with the sea, sailing, and ships.&lt;/p&gt;
+			&lt;p&gt;The book’s fifteen essays explore a wide range of maritime topics: from a seafarer’s perspective on Departure and Landfall, to the nature of the East and West Winds, and the symbolism of the anchor. These thematic reflections are mixed with personal anecdotes and autobiographical chapters, in which Conrad reflects on his own nautical adventures.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1058</dc:source>
@@ -68,9 +72,9 @@
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Gijs van Tulder</dc:contributor>
+		<meta property="file-as" refines="#producer-1">van Tulder, Gijs</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.vantulder.net/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
