@@ -53,7 +53,11 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1058</dc:source>
 		<dc:source>https://archive.org/details/mirrorofsea0000jose</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">
+			The full-page epigraph does not appear in these specific Internet Archive scans, but it does appear in the Project Gutenberg transcription and in most other scans of the book.
+
+			The Project Gutenberg transcription did not include the Author's Note. This has been added from the scans.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-mirror-of-the-sea</meta>
