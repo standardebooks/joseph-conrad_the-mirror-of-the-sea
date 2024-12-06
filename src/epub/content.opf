@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-12-06T20:24:31Z</dc:date>
+		<meta property="dcterms:modified">2024-12-06T20:24:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,14 +41,13 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85119292</meta>
-		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">An autobiographical memoir on Joseph Conrad’s maritime experiences and his relation with the sea.</dc:description>
+		<dc:description id="description">An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt; is the first of two autobiographical memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. Prior to his career as a writer, Conrad spent two decades as a sailor, working in the French and British merchant marine from 1874 to 1894. Published in 1906, &lt;i&gt;The Mirror of the Sea&lt;/i&gt; is a collection of essays on Conrad’s relation with the sea, sailing, and ships.&lt;/p&gt;
-			&lt;p&gt;The book’s fifteen essays explore a wide range of maritime topics: from a seafarer’s perspective on Departure and Landfall, to the nature of the East and West Winds, and the symbolism of the anchor. These thematic reflections are mixed with personal anecdotes and autobiographical chapters, in which Conrad reflects on his own nautical adventures.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt; is the first of two autobiographical memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. Prior to his career as a writer, Conrad spent two decades as a sailor, working in the French and British merchant marine from 1874 to 1894. Published in 1906, &lt;i&gt;The Mirror of the Sea&lt;/i&gt; is a collection of essays on Conrad’s relationship with the sea, sailing, and ships.&lt;/p&gt;
+			&lt;p&gt;The book’s fifteen essays explore a wide range of maritime topics: from a seafarer’s perspective on departure and landfall, to the nature of the East and West Winds, and the symbolism of the anchor. These thematic reflections are mixed with personal anecdotes and autobiographical chapters in which Conrad reflects on his own nautical adventures.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1058</dc:source>
@@ -58,8 +57,8 @@
 
 			The Project Gutenberg transcription did not include the Author's Note. This has been added from the scans.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">61957</meta>
+		<meta property="se:reading-ease.flesch">63.73</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-mirror-of-the-sea</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
@@ -85,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
