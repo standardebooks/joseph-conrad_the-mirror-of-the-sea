@@ -126,6 +126,6 @@ footer{
 
 #dedication p span{
 	display: inline-block;
+	font-size: larger;
 	margin: .5em 0;
-	text-transform: uppercase;
 }
