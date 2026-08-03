@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea</dc:identifier>
 		<dc:date>2024-12-06T20:24:31Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:description id="description">An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt; is the first of two autobiographical memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. Prior to his career as a writer, Conrad spent two decades as a sailor, working in the French and British merchant marine from 1874 to 1894. Published in 1906, &lt;i&gt;The Mirror of the Sea&lt;/i&gt; is a collection of essays on Conrad’s relationship with the sea, sailing, and ships.&lt;/p&gt;
 			&lt;p&gt;The book’s fifteen essays explore a wide range of maritime topics: from a seafarer’s perspective on departure and landfall, to the nature of the East and West Winds, and the symbolism of the anchor. These thematic reflections are mixed with personal anecdotes and autobiographical chapters in which Conrad reflects on his own nautical adventures.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1058</dc:source>
 		<dc:source>https://archive.org/details/mirrorofsea0000jose</dc:source>
