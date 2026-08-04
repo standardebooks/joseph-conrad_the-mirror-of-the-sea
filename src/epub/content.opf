@@ -46,7 +46,7 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.</dc:abstract>
+		<meta property="schema:abstract">An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt; is the first of two autobiographical memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. Prior to his career as a writer, Conrad spent two decades as a sailor, working in the French and British merchant marine from 1874 to 1894. Published in 1906, &lt;i&gt;The Mirror of the Sea&lt;/i&gt; is a collection of essays on Conrad’s relationship with the sea, sailing, and ships.&lt;/p&gt;
 			&lt;p&gt;The book’s fifteen essays explore a wide range of maritime topics: from a seafarer’s perspective on departure and landfall, to the nature of the East and West Winds, and the symbolism of the anchor. These thematic reflections are mixed with personal anecdotes and autobiographical chapters in which Conrad reflects on his own nautical adventures.&lt;/p&gt;
